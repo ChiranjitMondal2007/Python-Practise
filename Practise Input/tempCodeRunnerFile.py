@@ -1,1 +1,0 @@
-print("Best of luck",candidate_name)
