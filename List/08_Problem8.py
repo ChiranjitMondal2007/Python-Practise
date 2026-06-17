@@ -10,8 +10,8 @@ nums3 = int(input("Enter a number 3 :"))
 arr.append(nums3)
 
 newarr = []
-newarr.append(arr[1])
 newarr.append(arr[0])
-newarr.append(arr[1])
+newarr.append(arr[0])
+newarr.append(arr[0])
 
 print(newarr)
